@@ -5,5 +5,5 @@ Streamlit web app: Effortlessly analyze datasets, perform AutoML for regression,
 # To run the app on your system
 - git clone the repo into your system
 - Open the repo in a code editor
-- In the terminal type "streamlit-run main.py"
+- In the terminal type "streamlit run main.py"
   
